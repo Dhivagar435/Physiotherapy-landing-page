@@ -1,11 +1,10 @@
-import Footer from "../component/layout/Footer";
-import Navbar from "../component/layout/Navbar";
+import Hero from "../component/home/hero";
 
 
 export default function Home() {
   return (
     <>
-    
+    <Hero/>
     </>
   );
 }
